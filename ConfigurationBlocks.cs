@@ -73,7 +73,68 @@ public TypeRoad _typeRoad{ get; set; }
 // inheriting MorphologyBlock Class
  public class Cross: MorphologyBlock
 {
+    bool None;
+    bool Tcross;
+    bool Xcross;
+    bool Roundabout;
+    bool Immission;
     
+    public bool _none
+    {
+        get { 
+               return None; 
+            }
+  
+        set {
+             
+                None= value;             
+            }
+            
+    }
+    public bool _Tcross
+    {
+        get { 
+               return Tcross; 
+            }
+  
+        set {
+             
+                Tcross= value;             
+            }
+    }
+    public bool _Xcross
+    {
+        get { 
+               return Xcross; 
+            }
+  
+        set {
+             
+                Xcross= value;             
+            }
+    }
+    public bool _roundabout
+    {
+        get { 
+               return Roundabout; 
+            }
+  
+        set {
+             
+                Roundabout= value;             
+            }
+    }
+    public bool _immission
+    {
+        get { 
+               return Immission; 
+            }
+  
+        set {
+             
+                Immission= value;             
+            }
+    }
     public enum TypeCross{ None, TCross, Xcross, Roundabout, Immission};
     
     public readonly TypeCross typeCross;
