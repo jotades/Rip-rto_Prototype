@@ -13,3 +13,18 @@ C:\Users\Giovanni\Desktop\Rip@rto\obj\Debug\net6.0\refint\Rip@rto.dll
 C:\Users\Giovanni\Desktop\Rip@rto\obj\Debug\net6.0\Rip@rto.pdb
 C:\Users\Giovanni\Desktop\Rip@rto\obj\Debug\net6.0\Rip@rto.genruntimeconfig.cache
 C:\Users\Giovanni\Desktop\Rip@rto\obj\Debug\net6.0\ref\Rip@rto.dll
+C:\Users\giova\OneDrive - C.N.R. STIIMA\CNR\P03_Rip@rto\Rip-rto\obj\Debug\net6.0\Rip@rto.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive - C.N.R. STIIMA\CNR\P03_Rip@rto\Rip-rto\obj\Debug\net6.0\Rip@rto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\OneDrive - C.N.R. STIIMA\CNR\P03_Rip@rto\Rip-rto\obj\Debug\net6.0\Rip@rto.AssemblyInfoInputs.cache
+C:\Users\giova\OneDrive - C.N.R. STIIMA\CNR\P03_Rip@rto\Rip-rto\obj\Debug\net6.0\Rip@rto.AssemblyInfo.cs
+C:\Users\giova\OneDrive - C.N.R. STIIMA\CNR\P03_Rip@rto\Rip-rto\obj\Debug\net6.0\Rip@rto.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive - C.N.R. STIIMA\CNR\P03_Rip@rto\Rip-rto\obj\Debug\net6.0\Rip@rto.dll
+C:\Users\giova\OneDrive - C.N.R. STIIMA\CNR\P03_Rip@rto\Rip-rto\obj\Debug\net6.0\refint\Rip@rto.dll
+C:\Users\giova\OneDrive - C.N.R. STIIMA\CNR\P03_Rip@rto\Rip-rto\obj\Debug\net6.0\Rip@rto.pdb
+C:\Users\giova\OneDrive - C.N.R. STIIMA\CNR\P03_Rip@rto\Rip-rto\bin\Debug\net6.0\Rip@rto.exe
+C:\Users\giova\OneDrive - C.N.R. STIIMA\CNR\P03_Rip@rto\Rip-rto\bin\Debug\net6.0\Rip@rto.deps.json
+C:\Users\giova\OneDrive - C.N.R. STIIMA\CNR\P03_Rip@rto\Rip-rto\bin\Debug\net6.0\Rip@rto.runtimeconfig.json
+C:\Users\giova\OneDrive - C.N.R. STIIMA\CNR\P03_Rip@rto\Rip-rto\bin\Debug\net6.0\Rip@rto.dll
+C:\Users\giova\OneDrive - C.N.R. STIIMA\CNR\P03_Rip@rto\Rip-rto\bin\Debug\net6.0\Rip@rto.pdb
+C:\Users\giova\OneDrive - C.N.R. STIIMA\CNR\P03_Rip@rto\Rip-rto\obj\Debug\net6.0\Rip@rto.genruntimeconfig.cache
+C:\Users\giova\OneDrive - C.N.R. STIIMA\CNR\P03_Rip@rto\Rip-rto\obj\Debug\net6.0\ref\Rip@rto.dll

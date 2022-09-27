@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Giovanni\\.nuget\\packages\\": {}
+    "C:\\Users\\giova\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Giovanni\\Desktop\\Rip@rto\\Rip@rto.csproj",
+      "projectUniqueName": "C:\\Users\\giova\\OneDrive - C.N.R. STIIMA\\CNR\\P03_Rip@rto\\Rip-rto\\Rip@rto.csproj",
       "projectName": "Rip@rto",
-      "projectPath": "C:\\Users\\Giovanni\\Desktop\\Rip@rto\\Rip@rto.csproj",
-      "packagesPath": "C:\\Users\\Giovanni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Giovanni\\Desktop\\Rip@rto\\obj\\",
+      "projectPath": "C:\\Users\\giova\\OneDrive - C.N.R. STIIMA\\CNR\\P03_Rip@rto\\Rip-rto\\Rip@rto.csproj",
+      "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\giova\\OneDrive - C.N.R. STIIMA\\CNR\\P03_Rip@rto\\Rip-rto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Giovanni\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\giova\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
