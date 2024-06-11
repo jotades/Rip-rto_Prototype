@@ -11,7 +11,6 @@ This repository contains a C# program that demonstrates the concept of inheritan
   - [Rule](#rule)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This C# program illustrates the use of inheritance in object-oriented programming. The program defines a series of classes that represent different types of road blocks, inheriting properties and methods from parent classes. The main class `CaratterizationBlock` creates instances of these road blocks and prints their properties.
@@ -64,11 +63,3 @@ Block: CODE: 2 | N.corsie: 2 | N.Carreggiate: 2 | TypeRoad: Straight | TypeCross
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-This README file provides an overview of the program, explaining its structure and how to run it. Feel free to customize it further according to your needs.
