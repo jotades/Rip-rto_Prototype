@@ -1,7 +1,3 @@
-Certainly! Below is a README file that you can use for your GitHub repository to explain the C# program you provided. 
-
----
-
 # C# Inheritance Example: Road Characterization Blocks
 
 This repository contains a C# program that demonstrates the concept of inheritance. The program models different characteristics of road blocks, including their morphology, crossing types, and traffic rules.
